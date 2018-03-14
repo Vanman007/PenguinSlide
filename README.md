@@ -5,5 +5,5 @@ Made in ancient days before computer sience.
 
 The Game:
 
-Move the penguin with right mouse click. when you are on ice your penguin cannot stop and has a hard time turning.
-Dont get eaten by whales and dont drop into the water. The only goal for you is to get the golden fish so good luck.
+Move the penguin with right mouse click. When you are on ice your penguin cannot stop and have a hard time turning.
+Don't get eaten by whales and try not to drop into the water. The only goal for your penguin is to get the golden fish, so good luck.
